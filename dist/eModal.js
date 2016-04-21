@@ -48,7 +48,7 @@
             allowContentRecycle: true,
             confirmLabel: Object.keys(label)[0],
             labels: label,
-            loadingHtml: '<h5>Loading...</h5><div class=progress><div class="progress-bar progress-bar-striped active" style="width: 100%"></div></div>',
+            loadingHtml: '<h5>Loading...</h5><div class=progress><div class="progress-bar progress-bar-warning progress-bar-striped active" style="width: 100%"></div></div>',
             size: empty,
             title: 'Attention'
         };
